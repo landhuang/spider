@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/compiler.xml
+.idea/dbnavigator.xml
+.idea/inspectionProfiles/
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sbt.xml
+.idea/vcs.xml
+.idea/workspace.xml
+spider.iml
+kuaidi/src/
